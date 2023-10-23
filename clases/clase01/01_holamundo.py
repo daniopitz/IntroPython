@@ -1,2 +1,2 @@
 # programa holamundo.py
-print('Hola Clase!')
+print('Hola Mundo!')

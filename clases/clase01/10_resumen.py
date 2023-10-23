@@ -1,5 +1,5 @@
 var_texto = 'literal con text'
-var_entero = -112
+var_entero = 112
 var_float = 3.1416
 
 #concatenar
