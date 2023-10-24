@@ -7,6 +7,10 @@ Created on Tue Oct 12 10:59:06 2021
 """
 
 file = open('2020-05-01-CasosConfirmados.csv', 'r') #Abre el archivo
-data = file.read()
-print (data)
+for line in file:
+    print (line)
 file.close() # Cierra el archivo
+
+with open('2020-05-01-CasosConfirmados.csv', 'r') as file: #Abre el archivo
+    for line in file:
+        print(line)
