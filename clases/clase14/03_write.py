@@ -9,9 +9,5 @@ Created on Tue Jun  2 19:41:37 2020
 
 
 data = ["Línea 1", "Línea 2", "Línea 3", "Línea 4", "Línea 5"]
-file = open('archivo3.txt', 'w')
-
-for line in data:
-    file.write(line)
-    file.write('\n')
-file.close()
+with  open('archivo3.txt', 'a') as file:
+    file.write('Hola Hola')

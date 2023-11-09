@@ -9,7 +9,6 @@ data = ["Daniela", "Paula", "Eduardo", "Ricardo", "Hugo"]
 
 file = open("archivo3.txt", "w")
 for line in data:
-    print(line)
-    file.write(line)
+    file.write(line + '\n')
   
 file.close()
