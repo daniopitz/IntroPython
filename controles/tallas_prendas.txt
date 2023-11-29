@@ -1,0 +1,28 @@
+poleras,xs
+poleras,m
+poleras,l
+poleras,xl
+polerones,s
+polerones,l
+polerones,xl
+camisas,xs
+camisas,s
+camisas,xl
+blusas,s
+blusas,l
+vestidos,xs
+vestidos,s
+vestidos,m
+pantalones,xs
+pantalones,xl
+shorts,m
+shorts,l
+shorts,xl
+bermudas,s
+bermudas,m
+bermudas,l
+bikinis,xs
+bikinis,s
+trajes de baño,m
+trajes de baño,l
+trajes de baño,xl
