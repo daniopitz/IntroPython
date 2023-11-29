@@ -9,7 +9,7 @@ Created on Thu Oct 26 10:48:29 2023
 personas=['Juan', 'Maria', 'Pedro', 'Lucia']
 edad=[23, 13,4,5]
 
-with open('personas.txt', 'w') as file:
+with open('personas1.txt', 'w') as file:
     for i in range(len(personas)):
         file.write(personas[i] + ' ' + str(edad[i]) + '\n')
         

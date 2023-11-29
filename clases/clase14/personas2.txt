@@ -1,0 +1,4 @@
+Juan,30
+María,25
+Pedro,40
+Lucía,35

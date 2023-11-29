@@ -12,14 +12,19 @@ with open("2020-06-01-CasosConfirmados-totalRegional.csv", "r") as t:
     next(t)
     for line in t:
         s=line.split(',')
-        region=" ".join(s[0].split())
+        region=s[0]
+        numero=s[2]
+        print(region, numero)
         if region == 'Total':
             continue
-        regiones.append(s[0])
+        regiones.append(region)
         casos.append(int(s[2]))
-    
+  
+print(regiones)
+print(casos)
     
 pcr=list()
+
 with open("pcr.csv", "r") as g:
     next(g)
     for line in g:
@@ -28,7 +33,8 @@ with open("pcr.csv", "r") as g:
         
 print(pcr)
 
-    
+  
+#escribimos el archivo  
 f = open("positividad.csv", "w")
 positividad=list()
 header=['Region','PCRs','Casos','Positividad']
