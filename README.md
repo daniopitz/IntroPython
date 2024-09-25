@@ -1,5 +1,10 @@
 # Introducción a la Programación en Python
 
+El material de este curso está basado en el libro *Introduction to Programming in Python* de Robert Sedgewick, Kevin Wayne y Robert Dondero.
+
+Puedes encontrar más información y recursos adicionales en [https://introcs.cs.princeton.edu/python](https://introcs.cs.princeton.edu/python).
+
+
 | Semana | Fecha    | Temas                                           | Actividades                                                                                                                                                                                                                                                              | Recursos                                                                                              |
 |--------|----------|-------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
 | 1      | 31-07<br>06-08 | Inicio clases<br>Introducción<br>Definición de algoritmo<br>Definición de intérprete<br>El primer Hola Mundo<br>Variables y memoria<br>Tipos de datos (int, double, str)<br>Conversión tipos de datos (casting)<br>Entrada y salida: int y string | Clases expositivas por parte del profesor<br>Trabajo individual en clases<br>Trabajo grupal en hora de ayudantía<br>Programación de códigos y presentación en clases (ítem participación)<br>Preguntas y respuestas en el foro de Canvas (ítem participación)<br>Solución listados de problemas en equipo (ítem ayudantía)| [Hola Mundo](https://introcs.cs.princeton.edu/python/11hello/)<br>[Tipos de Datos](https://introcs.cs.princeton.edu/python/12types/)<br>[Input/Output](https://introcs.cs.princeton.edu/python/15inout/) |
