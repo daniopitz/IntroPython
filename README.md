@@ -21,5 +21,10 @@
 | 17     | 20-11<br>26-11 | Expresiones Lambda | Clases expositivas por parte del profesor<br>Trabajo individual en clases<br>Trabajo grupal en hora de ayudantía<br>Programación de códigos y presentación en clases (ítem participación)<br>Preguntas y respuestas en el foro de plataforma canvas (ítem participación) | [Expresiones Lambda](https://docs.python.org/3/tutorial/controlflow.html?highlight=lambda#lambda-expressions) |
 | 18     | 27-11<br>03-12 | **Exámenes finales**         | Exámenes individual en computador que evalúa todos los contenidos vistos a la fecha.                                                                                                                                                                                   | -        |
 | 19     | 04-12<br>10-12 | **Continuación de exámenes finales**| Continuación de los exámenes finales semestrales                                                                                                                                                                                                                         | -        |
-| 20     | 11-12<br>17-12 | **Examenes recuperativos**             | Exámenes Recuperativos                                                                                                                                                                                                                                                   | -        |
+| 20     | 11-12<br>17-12 | **Examenes recuperativos**             | Exámenes Recuperativos                                                                                                                                                                                                                                                  | -        |
 
+# Derechos de Autor y de Uso
+
+No está permitido vender, distribuir, ni utilizar este material con fines productivos, de investigación o educativos sin el consentimiento previo y por escrito de los propietarios.
+
+Si deseas utilizar este material con fines educativos o de investigación, por favor, solicita autorización previa contactándome en [daniela.opitz@unswalumni.com].
